@@ -1,7 +1,6 @@
-# NN Login Game with C (Basic)
+# NN with C / C++ (Basic)
 ## Intro
-This is basic NN (neural network) that create while watching tscoding twitch stream. It is just or learnin. It used basic concepts of Machine learning to train a NN to determine what can be the output of the given input gates.
-
+This is basic NN (neural network) that create while watching tscoding twitch stream. It used basic concepts of Machine learning to train a NN to determine what can be the output of the given input gates.
 It supports AND/OR/XOR/NAND
 
 ## Getting Started
@@ -13,4 +12,14 @@ You should have c compiler install on your system i am using linux so the GCC co
 
 clone this repo and put in one folder
 
-## 
+
+## Compling
+
+- Linux & Mac : use `make` command when going to cmd
+- Window      : if you can use `make` use otherwise <br>`gcc main.c -o build/logic_gate.exe -lm` 
+
+## Running
+- Linux/Mac : use `make run` and will run
+- Window    : use `build/logic_gate.exe`
+
+
