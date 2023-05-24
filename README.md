@@ -23,3 +23,4 @@ clone this repo and put in one folder
 - Window    : use `build/logic_gate.exe`
 
 
+If you have any other way to run try run according to noramal C program
